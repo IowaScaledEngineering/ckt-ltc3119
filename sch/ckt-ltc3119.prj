@@ -1,0 +1,4 @@
+schematics ckt-ltc3119.sch
+output-name ../pcb/ckt-ltc3119
+skip-m4
+elements-dir ../../../footprints
