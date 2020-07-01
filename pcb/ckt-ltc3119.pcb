@@ -977,7 +977,7 @@ Element["" "LTC_FE28" "U1" "unknown" 925.00mil 1395.00mil -15.00mil 205.00mil 0 
 	Pad[97.44mil -115.16mil 121.06mil -115.16mil 17.72mil 20.00mil 23.72mil "BST1" "26" "square,edge2"]
 	Pad[97.44mil -140.75mil 121.06mil -140.75mil 17.72mil 20.00mil 23.72mil "27" "27" "square,edge2"]
 	Pad[97.44mil -166.34mil 121.06mil -166.34mil 17.72mil 20.00mil 23.72mil "PWM/SYNC" "28" "square,edge2"]
-	Pad[0.0000 -68.90mil 0.0000 68.90mil 98.43mil 0.0000 104.43mil "EP" "29" "square,edge2"]
+	Pad[0.0000 -74.80mil 0.0000 74.80mil 86.61mil 0.0000 92.61mil "EP" "29" "square,edge2"]
 	Pad[0.0000 -88.78mil 0.0000 88.78mil 120.08mil 0.0000 126.08mil "EP" "29" "square,edge2,nopaste"]
 	ElementLine [-88.58mil -196.85mil 88.58mil -196.85mil 10.00mil]
 	ElementLine [88.58mil 196.85mil -88.58mil 196.85mil 10.00mil]
